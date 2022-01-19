@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+
+Studerar webbutveckling på Mittuniversitetet i Sundsvall. 
+
+
 
 <!--
 **JohannaKarlsson89/JohannaKarlsson89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
